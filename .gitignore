@@ -1,0 +1,7 @@
+# Arduino IDE
+*.ino.elf
+*.ino.bin
+*.ino.hex
+
+# Local secrets
+config.h
